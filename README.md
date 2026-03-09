@@ -73,6 +73,7 @@ designing frontend architecture, and improving performance for large-scale produ
 
 </p>
 
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
 ⭐️ From [patelsiddharth](https://github.com/patelsiddharth)
