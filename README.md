@@ -17,15 +17,9 @@ designing frontend architecture, and improving performance for large-scale produ
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Activity
 
 <img src="https://streak-stats.demolab.com?user=patelsiddharth&theme=dark"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelsiddharth&theme=github-dark"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=patelsiddharth&theme=darkhub"/>
 
 ---
 
