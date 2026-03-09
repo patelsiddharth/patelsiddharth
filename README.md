@@ -19,13 +19,13 @@ designing frontend architecture, and improving performance for large-scale produ
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=patelsiddharth&show_icons=true&theme=dracula" height="160"/>
+<img src="https://streak-stats.demolab.com?user=patelsiddharth&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=patelsiddharth&layout=compact&theme=dracula" height="160"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelsiddharth&theme=github-dark"/>
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=patelsiddharth&theme=darkhub"/>
 
 ---
 
