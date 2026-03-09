@@ -2,7 +2,7 @@
 <h3 align="center">Senior Frontend Engineer | React • TypeScript • Architecture</h3>
 
 <p align="center">
-Frontend engineer with 5+ years of experience building scalable web applications, 
+Frontend engineer with ~7 years of experience building scalable web applications, 
 designing frontend architecture, and improving performance for large-scale products.
 </p>
 
@@ -55,7 +55,7 @@ designing frontend architecture, and improving performance for large-scale produ
 - Micro Frontends
 - Monorepos (Nx)
 - Modern Build Systems (Webpack / Vite)
-- Testing (Jasmine / Karma)
+- Testing (Jasmine / Karma / Vitest)
 
 ---
 
