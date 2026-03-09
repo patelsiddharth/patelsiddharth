@@ -66,7 +66,7 @@ designing frontend architecture, and improving performance for large-scale produ
 <a href="https://www.linkedin.com/in/siddharthpatel425/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://codesandbox.io/u/siddharthpatel177">
 <img src="https://img.shields.io/badge/Codesandbox-black?style=for-the-badge&logo=codesandbox"/>
 </a>
